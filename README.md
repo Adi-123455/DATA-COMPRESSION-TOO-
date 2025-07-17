@@ -50,5 +50,8 @@ Handle digits in the input string (e.g., a5 could be confused with a decoded ver
 
 Add a decoding function to reconstruct the original string from the compressed one.
 
+*OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/305e8d03-c023-4818-910b-a6a15270462e" />
+
 Conclusion
 In summary, this Run-Length Encoding program demonstrates how a classic data compression algorithm can be implemented using basic C constructs. It's ideal for students learning about string processing, algorithms, or data compression principles. It shows how even a small piece of code can serve an important purpose in fields like storage optimization and transmission efficiency.
